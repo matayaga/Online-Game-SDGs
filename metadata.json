@@ -1,0 +1,7 @@
+{
+  "name": "SDG Future Agent HQ",
+  "description": "A high-stakes cooperative card game centered around the UN Sustainable Development Goals. Work together with human and AI agents to save the future through strategic card collection and resource sharing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
